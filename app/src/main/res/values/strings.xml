@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirestoreAuth</string>
+    <string name="buttonCreate">Create</string>
+    <string name="buttonLogin">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
